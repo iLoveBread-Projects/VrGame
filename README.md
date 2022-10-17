@@ -1,2 +1,1 @@
-# VrGame
-VR Game in progress
+# VR GAME
